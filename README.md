@@ -99,6 +99,21 @@ A data analysis project based on the famous Titanic dataset.
 
 ---
 
+### 🏠 Home Service Application
+
+A home-service application concept developed using Flutter and Dart.
+
+**Focus:**
+- User Interface
+- Application Design
+- Service-based application workflow
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DravidChauhan09/hospital-emergency-room-data-analysis/main/dashboard.png" width="900">
+</p>
+
+---
+
 ### 📱 Hey-Chat Application
 
 A Flutter-based application developed as a self-development project.
@@ -108,17 +123,6 @@ A Flutter-based application developed as a self-development project.
 - Dart
 - UI Development
 - Application Development
-
----
-
-### 🏠 Home Service Application
-
-A home-service application concept developed using Flutter and Dart.
-
-**Focus:**
-- User Interface
-- Application Design
-- Service-based application workflow
 
 ---
 
