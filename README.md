@@ -93,7 +93,9 @@ A data analysis project based on the famous Titanic dataset.
 
 🖼️ Dashboard Preview
 
-Titanic_Dashboard.png
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DravidChauhan09/titanic-data-analysis-power-bi/main/Titanic_Dashboard.png" width="900">
+</p>
 
 ---
 
