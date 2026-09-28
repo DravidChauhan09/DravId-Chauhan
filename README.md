@@ -91,6 +91,9 @@ A data analysis project based on the famous Titanic dataset.
 - Data Cleaning
 - Data Visualization
 
+🖼️ Dashboard Preview
+images/titanic-analysis.png
+
 ---
 
 ### 📱 Hey-Chat Application
