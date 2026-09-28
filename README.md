@@ -108,9 +108,9 @@ A home-service application concept developed using Flutter and Dart.
 - Application Design
 - Service-based application workflow
 
-<img src="./dashbord.png" alt="Dravid Chauhan" width="300">
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DravidChauhan09/titanic-data-analysis-power-bi/main/Titanic_Dashboard.png" width="900">
+</p>
 
 ---
 
