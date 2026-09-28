@@ -108,10 +108,6 @@ A home-service application concept developed using Flutter and Dart.
 - Application Design
 - Service-based application workflow
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DravidChauhan09/titanic-data-analysis-power-bi/main/Titanic_Dashboard.png" width="900">
-</p>
-
 ---
 
 ### 📱 Hey-Chat Application
