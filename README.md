@@ -109,8 +109,9 @@ A home-service application concept developed using Flutter and Dart.
 - Service-based application workflow
 
 <p align="center">
-  <img src="images/dashbord.png" width="900">
+  <img src="https://raw.githubusercontent.com/DavidChauhan09/hospital-emergency-room-data-analysis/main/dashbord.png" width="900">
 </p>
+
 
 
 
