@@ -92,7 +92,8 @@ A data analysis project based on the famous Titanic dataset.
 - Data Visualization
 
 🖼️ Dashboard Preview
-images/titanic-analysis.png
+
+![Titanic Dashboard](images/titanic-analysis.png)
 
 ---
 
